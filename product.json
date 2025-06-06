@@ -1,0 +1,31 @@
+{
+    "id":1,
+    "name":"product name 1",
+    "price" : 50,
+    "img": "download.jpg"
+},
+{
+   "id":2,
+    "name":"product name 2",
+    "price" : 70,
+    "img": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw660b5937/original/90_R742010-R100MLS_RNUL_22_ErosEnergyEDP100ml-Eros~Energy-Versace-online-store_0_2.jpg?sw=550&q=85&strip=true"
+},
+
+{
+    "id":3,
+    "name":"product name 3",
+    "price" : 80,
+    "img": "download.jpg"
+},
+{
+    "id":4,
+    "name":"product name 4",
+    "price" : 90,
+    "img": "download.jpg"
+},
+{
+    "id":5,
+    "name":"product name 5",
+    "price" : 150,
+    "img": "download.jpg"
+},
